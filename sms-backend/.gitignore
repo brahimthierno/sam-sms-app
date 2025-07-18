@@ -1,0 +1,9 @@
+# === Backend ===
+node_modules/
+.env
+*.log
+
+# === Frontend ===
+sms-frontend/node_modules/
+sms-frontend/dist/
+sms-frontend/.env
